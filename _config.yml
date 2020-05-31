@@ -1,4 +1,4 @@
-title:              "이시대 모임백서<br> (異時代 모임白書)"
+title:              "이시대 모임백서 (異時代 모임白書)"
 tagline:            "post-COVID 시대, 오프라인 모임을 탐구하다"
 email:              "haejipk@gmail.com"
 description:        "이제 언택트가 뜬다는데, 커뮤니티는 어떻게 변할까요? 커뮤니티 서비스의 발전 방향은?"
@@ -7,7 +7,9 @@ baseurl:            "/"
 url:                "https://comeon2off.com"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
-
+# 블로그 disqus shortname
+disqus:
+  shortname: comeon2off
 # Social Profiles
 twitter_username:   twitter_username
 instagram_username: instagram_username
