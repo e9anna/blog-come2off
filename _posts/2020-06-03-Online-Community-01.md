@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Online-Community/
+permalink: /Online-Community01/
 title: '페이스북도 주목하는 커뮤니티'
 date: 2020-06-03 14:30:00 +09:00
 feature: '/img/posts/005/thumbnail.jpg'
